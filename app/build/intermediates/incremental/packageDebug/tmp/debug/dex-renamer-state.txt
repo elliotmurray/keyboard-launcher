@@ -1,0 +1,4 @@
+#Sun Dec 01 18:58:57 GMT 2019
+base.0=/Users/elliot/Documents/dev/Android/KeyboardLauncher/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

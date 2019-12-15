@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.airbnb.android:epoxy-databinding:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a9d175f290800e8db09cf6f21f4279d5/jetified-epoxy-databinding-3.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f00a7801687b2a9713e51be9284bd2e7/databinding-adapters-4.0.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8f4ab5c3479a964cffe7bc75735a1ce7/databinding-runtime-4.0.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:epoxy:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/50b94564aa4aa4473df32365b399e3e6/jetified-epoxy-3.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e63bfe926deb35013c1f8ff92127f93b/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d0f908056ae2f4e148ef69c920e3ed4c/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/41cd629fd9a50e9f47ecf8171b1c39cf/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/3deea6e8eed1a383e316c226ea18fcd1/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/elliot/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/74267ae740138b7e84a06cbf1f48157f/jetified-lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4ead115aa01c4ba3c386d5b1e124598f/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [org.koin:koin-android:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/28cebe0870a7867a2da1fbd65cc16cf6/jetified-koin-android-2.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f9f988ae3b762e30dc072bd998514505/jetified-viewbinding-4.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ba39b62f6c244093b60cac02e78f40be/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f7bb16ee7942dfcd6d6fad4b663229ed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0caff82a521f23cece9f1e5f9e25e861/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/13ab284afc546b38e0b895d43f8a9cd1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/441e85d350856b39dc43b2f1e13ff35f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c0753f8ff0632d77ed4f65fb8aa023e4/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/89f804a88c8f1bf31e7a30988ca6bacb/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/dfdfaf56e0b0a3f126fd692e8dfaf0af/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ee6141d8186f8d97ea2f6d0d52f2af55/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/83945058f6eecdd2ba2bf5cdf90f5544/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e6dc737b3465771f8613bf25141558ba/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/efcd0ce6237121a129acf9f92cce3707/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/58331b1f2e3e0607bea13c8869fe7a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.airbnb.android:epoxy-databinding:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a9d175f290800e8db09cf6f21f4279d5/jetified-epoxy-databinding-3.8.0/AndroidManifest.xml:9:5-47
+MERGED from [com.airbnb.android:epoxy-databinding:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a9d175f290800e8db09cf6f21f4279d5/jetified-epoxy-databinding-3.8.0/AndroidManifest.xml:9:5-47
+MERGED from [com.airbnb.android:epoxy:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/50b94564aa4aa4473df32365b399e3e6/jetified-epoxy-3.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:epoxy:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/50b94564aa4aa4473df32365b399e3e6/jetified-epoxy-3.8.0/AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e63bfe926deb35013c1f8ff92127f93b/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e63bfe926deb35013c1f8ff92127f93b/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d0f908056ae2f4e148ef69c920e3ed4c/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d0f908056ae2f4e148ef69c920e3ed4c/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/41cd629fd9a50e9f47ecf8171b1c39cf/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/41cd629fd9a50e9f47ecf8171b1c39cf/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/elliot/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/elliot/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ba39b62f6c244093b60cac02e78f40be/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ba39b62f6c244093b60cac02e78f40be/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:6:9-44
+activity#uk.co.elliotmurray.keyboardlauncher.LauncherActivity
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:13:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+MERGED from [com.airbnb.android:epoxy-databinding:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a9d175f290800e8db09cf6f21f4279d5/jetified-epoxy-databinding-3.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:epoxy-databinding:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a9d175f290800e8db09cf6f21f4279d5/jetified-epoxy-databinding-3.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f00a7801687b2a9713e51be9284bd2e7/databinding-adapters-4.0.0-alpha02/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f00a7801687b2a9713e51be9284bd2e7/databinding-adapters-4.0.0-alpha02/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8f4ab5c3479a964cffe7bc75735a1ce7/databinding-runtime-4.0.0-alpha02/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8f4ab5c3479a964cffe7bc75735a1ce7/databinding-runtime-4.0.0-alpha02/AndroidManifest.xml:22:5-44
+MERGED from [com.airbnb.android:epoxy:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/50b94564aa4aa4473df32365b399e3e6/jetified-epoxy-3.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:epoxy:3.8.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/50b94564aa4aa4473df32365b399e3e6/jetified-epoxy-3.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e63bfe926deb35013c1f8ff92127f93b/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e63bfe926deb35013c1f8ff92127f93b/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d0f908056ae2f4e148ef69c920e3ed4c/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d0f908056ae2f4e148ef69c920e3ed4c/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/41cd629fd9a50e9f47ecf8171b1c39cf/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/41cd629fd9a50e9f47ecf8171b1c39cf/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/a582fa6f5ec25b4ebdf31a91e28d5f0d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/3deea6e8eed1a383e316c226ea18fcd1/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/3deea6e8eed1a383e316c226ea18fcd1/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/elliot/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/elliot/.gradle/caches/transforms-2/files-2.1/96cdaff78c50e61d15d0649ac640ca88/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/74267ae740138b7e84a06cbf1f48157f/jetified-lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/74267ae740138b7e84a06cbf1f48157f/jetified-lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4ead115aa01c4ba3c386d5b1e124598f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4ead115aa01c4ba3c386d5b1e124598f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [org.koin:koin-android:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/28cebe0870a7867a2da1fbd65cc16cf6/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /Users/elliot/.gradle/caches/transforms-2/files-2.1/28cebe0870a7867a2da1fbd65cc16cf6/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f9f988ae3b762e30dc072bd998514505/jetified-viewbinding-4.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.0-alpha02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f9f988ae3b762e30dc072bd998514505/jetified-viewbinding-4.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ba39b62f6c244093b60cac02e78f40be/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ba39b62f6c244093b60cac02e78f40be/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8d14093946a073a4655ca35a7d20f1f8/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f7bb16ee7942dfcd6d6fad4b663229ed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f7bb16ee7942dfcd6d6fad4b663229ed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0caff82a521f23cece9f1e5f9e25e861/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0caff82a521f23cece9f1e5f9e25e861/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/13ab284afc546b38e0b895d43f8a9cd1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/13ab284afc546b38e0b895d43f8a9cd1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8dd726b7b38a20cb5439029404037432/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/29c63355b84aafd0d65415988c4f121a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/7b8ea8a4aeace5812a3aec9d402ef2a3/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/cb41912cdb6d65cf600cef7673183ca1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/441e85d350856b39dc43b2f1e13ff35f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/441e85d350856b39dc43b2f1e13ff35f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c78de3a4955ec4a25b23e0d11d36db40/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/d27f6085b840924dd4e0fca7d41f4d8c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c0753f8ff0632d77ed4f65fb8aa023e4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/c0753f8ff0632d77ed4f65fb8aa023e4/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/89f804a88c8f1bf31e7a30988ca6bacb/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/89f804a88c8f1bf31e7a30988ca6bacb/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/226cef7af3f65d8e1feb6e2a265f88bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/dfdfaf56e0b0a3f126fd692e8dfaf0af/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/dfdfaf56e0b0a3f126fd692e8dfaf0af/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ee6141d8186f8d97ea2f6d0d52f2af55/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ee6141d8186f8d97ea2f6d0d52f2af55/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/83945058f6eecdd2ba2bf5cdf90f5544/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/83945058f6eecdd2ba2bf5cdf90f5544/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/ec4df20c44042760ddced03ead47e8bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/db549b1698276c3bccb5a258c62911c8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4f85b611fc4af09a5c0c5c6904ae532c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/0607d870d638e0bbda4c9df15494b171/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e6dc737b3465771f8613bf25141558ba/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/elliot/.gradle/caches/transforms-2/files-2.1/e6dc737b3465771f8613bf25141558ba/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/efcd0ce6237121a129acf9f92cce3707/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/efcd0ce6237121a129acf9f92cce3707/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/f4a193b1a276be068b4456f76f1d9b3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/8ac534f7c05da7c0171fdbd7104f80bd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/37d850288f46f406dcc61b14878a80f8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/58331b1f2e3e0607bea13c8869fe7a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/58331b1f2e3e0607bea13c8869fe7a0f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/76f3f6aae4dab4a59df0b1fab21aeacd/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/6e60ce21f38813450769c2550284c4c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/252460a0d4062d0394772b8bf427fa69/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elliot/.gradle/caches/transforms-2/files-2.1/4bc44d24a4a8a06933969626556211ed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/AndroidManifest.xml

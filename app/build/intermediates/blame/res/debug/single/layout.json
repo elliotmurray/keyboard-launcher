@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elliot/Documents/dev/Android/KeyboardLauncher/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_launcher.xml",
+        "source": "/Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/elliot/Documents/dev/Android/KeyboardLauncher/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_launcher.xml",
+        "source": "/Users/elliot/Documents/dev/Android/KeyboardLauncher/app/src/main/res/layout/item_launcher.xml"
+    }
+]
